@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/debug/assets" />
+    </dataSet>
+
+</merger>
