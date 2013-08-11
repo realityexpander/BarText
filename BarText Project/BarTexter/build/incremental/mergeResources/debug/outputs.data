@@ -1,11 +1,11 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1376178674000 955 daa2106af0c682845f4537d371b267c8428450d0 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/build/res/all/debug/values-v11/values.xml
-1376178674000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/build/res/all/debug/drawable-mdpi/ic_launcher.png
-1376178674000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/build/res/all/debug/drawable-hdpi/ic_launcher.png
-1376178674000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1376178674000 365 479dad90b6e90f8a90be8599faee0fb599b2356f /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/build/res/all/debug/values-v14/values.xml
-1376178674000 2208 de31ac64cfee6afa187d4daeef96501fae294f57 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/build/res/all/debug/values/values.xml
-1376178674000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/build/res/all/debug/drawable-xhdpi/ic_launcher.png
-1376178674000 1985 50ad3384fb2211afb82b0fc7610747f0abc126e7 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/build/res/all/debug/layout/activity_fullscreen.xml
+1376183694000 2236 040040a157ed29f120adaaee285bb40f0df4f7a5 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/build/res/all/debug/values/values.xml
+1376183694000 375 c2da6b8affd0dee3979da625ca3d16a51ec93b8b /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/build/res/all/debug/values-v14/values.xml
+1376183694000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1376183694000 965 58a544abad759dfaffdbcbd4799a84b369074c50 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/build/res/all/debug/values-v11/values.xml
+1376183694000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1376183694000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1376183694000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1376184126000 2469 f2eac05b4cc9183080bcf10e3d2140c9e9692dcb /Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/build/res/all/debug/layout/activity_fullscreen.xml

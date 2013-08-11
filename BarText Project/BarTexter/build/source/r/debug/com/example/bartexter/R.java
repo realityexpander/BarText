@@ -19,7 +19,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int buttonBarStyle=0x7f010000;
     }
     public static final class color {
-        /**  From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values/colors.xml 
+        /**  From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText%20Project/BarTexter/src/main/res/values/colors.xml 
          */
         public static final int black_overlay=0x7f040000;
     }
@@ -27,7 +27,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int dummy_button=0x7f070002;
+        public static final int edit_text=0x7f070002;
         public static final int fullscreen_content=0x7f070000;
         public static final int fullscreen_content_controls=0x7f070001;
     }
@@ -35,22 +35,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int activity_fullscreen=0x7f030000;
     }
     public static final class string {
-        /**  From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values/strings.xml 
+        /**  From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText%20Project/BarTexter/src/main/res/values/strings.xml 
          */
         public static final int app_name=0x7f050000;
         public static final int dummy_button=0x7f050001;
         public static final int dummy_content=0x7f050002;
     }
     public static final class style {
-        /**  From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values/styles.xml 
+        /**  From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText%20Project/BarTexter/src/main/res/values/styles.xml 
 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values-v11/styles.xml 
+ From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText%20Project/BarTexter/src/main/res/values-v11/styles.xml 
  API 11 theme customizations can go here. 
- From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values-v14/styles.xml 
+ From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText%20Project/BarTexter/src/main/res/values-v14/styles.xml 
  API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f060000;
@@ -63,7 +63,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int FullscreenTheme=0x7f060004;
     }
     public static final class styleable {
-        /**  From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values/attrs.xml 
+        /**  From: file:/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText%20Project/BarTexter/src/main/res/values/attrs.xml 
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />

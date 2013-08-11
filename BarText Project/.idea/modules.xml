@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BarText.iml" filepath="$PROJECT_DIR$/BarText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarText Project.iml" filepath="$PROJECT_DIR$/BarText Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/BarTexter/BarTexter.iml" filepath="$PROJECT_DIR$/BarTexter/BarTexter.iml" />
     </modules>
   </component>

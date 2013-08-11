@@ -2,34 +2,34 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res" >
+        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res" >
             <file
                 name="ic_launcher"
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="activity_fullscreen"
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/layout/activity_fullscreen.xml"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/layout/activity_fullscreen.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values/attrs.xml"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/values/attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="ButtonBarContainerTheme" >
                     <attr
@@ -41,24 +41,35 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values/colors.xml"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/values/colors.xml"
                 qualifiers="" >
                 <color name="black_overlay" >#66000000
                 </color>
             </file>
             <file
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values/strings.xml"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="app_name" >BarTexter
                 </string>
-                <string name="dummy_content" >DUMMY\nCONTENT
+                <string name="dummy_content" >Hey There!
                 </string>
-                <string name="dummy_button" >Dummy Button
+                <string name="dummy_button" >Test
                 </string>
             </file>
             <file
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values/styles.xml"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/values/styles.xml"
                 qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
 
                 <style name="ButtonBar" >
                     <item name="android:paddingLeft">
@@ -76,17 +87,6 @@
                     <item name="android:background">
 @android:drawable/bottom_bar
                     </item>
-                </style>
-
-                <style
-                    name="AppBaseTheme"
-                    parent="android:Theme.Light" >
-
-                    <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-                    -->
                 </style>
 
                 <style
@@ -116,7 +116,7 @@
                 </style>
             </file>
             <file
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values-v11/styles.xml"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -155,7 +155,7 @@ true
                 </style>
             </file>
             <file
-                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/main/res/values-v14/styles.xml"
+                path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/main/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -166,10 +166,10 @@ true
                 </style>
             </file>
         </source>
-        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/build/res/rs/debug" />
+        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText/BarTexter/src/debug/res" />
+        <source path="/Users/realityexpander/Desktop/deltaprogram/playground/bartext/BarText/BarText Project/BarTexter/src/debug/res" />
     </dataSet>
 
 </merger>

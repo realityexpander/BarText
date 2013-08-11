@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
+import android.widget.TextView;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
@@ -21,7 +22,7 @@ public class FullscreenActivity extends Activity {
      * Whether or not the system UI should be auto-hidden after
      * {@link #AUTO_HIDE_DELAY_MILLIS} milliseconds.
      */
-    private static final boolean AUTO_HIDE = true;
+    private static final boolean AUTO_HIDE = false;
 
     /**
      * If {@link #AUTO_HIDE} is set, the number of milliseconds to wait after
@@ -102,6 +103,11 @@ public class FullscreenActivity extends Activity {
             public void onClick(View view) {
                 if (TOGGLE_ON_CLICK) {
                     mSystemUiHider.toggle();
+
+                    TextView editText = (TextView) findViewById(R.id.edit_text);
+                    TextView displayText = (TextView) findViewById(R.id.fullscreen_content);
+                    displayText.setText(editText.getText());
+
                 } else {
                     mSystemUiHider.show();
                 }
@@ -111,7 +117,9 @@ public class FullscreenActivity extends Activity {
         // Upon interacting with UI controls, delay any scheduled hide()
         // operations to prevent the jarring behavior of controls going away
         // while interacting with the UI.
-        findViewById(R.id.dummy_button).setOnTouchListener(mDelayHideTouchListener);
+        findViewById(R.id.edit_text).setOnTouchListener(mDelayHideTouchListener);
+
+
     }
 
     @Override
